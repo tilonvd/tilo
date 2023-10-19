@@ -1,0 +1,3 @@
+3_1: https://gifftme-pull.b-cdn.net/suggested/giftbox/rings.png - timeout on image download (website error)
+3_1: https://gifftme-pull.b-cdn.net/suggested/giftbox/meow.png - timeout on image download (website error)
+3_1: https://gifftme-pull.b-cdn.net/suggested/giftbox/sorry.jpeg - timeout on image download (website error)
